@@ -1,3 +1,32 @@
 """ A set of known words and end-of-word patterns for the spellchecker. """
 
-words = {"Michalis", "Panayides", "Queue", "Queueing"}
+words = {
+    "argmin",
+    "automata",
+    "BDF",
+    "calc",
+    "dt",
+    "dy",
+    "EDs",
+    "ij",
+    "invertible",
+    "ivp",
+    "Jacobian",
+    "Kutta",
+    "lsoda",
+    "Markovian",
+    "math",
+    "Michalis",
+    "Mx",
+    "numpy",
+    "odeint",
+    "odepack",
+    "Panayides",
+    "pre",
+    "Queue",
+    "Queueing",
+    "RK",
+    "Runge",
+    "scipy",
+    "th",
+}
